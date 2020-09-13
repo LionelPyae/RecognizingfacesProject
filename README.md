@@ -1,1 +1,1 @@
-# RecognizingfacesProject
+# OpenCV Project
