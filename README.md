@@ -5,5 +5,6 @@
   * opencv
   * matplotlib
   * python
+  * pandas
   
  # This is the last project of my opencv with python course.
